@@ -8,9 +8,13 @@ certifi==2021.5.30
 charset-normalizer==2.0.2
 click==8.0.1
 fastapi==0.66.0
+ffmpeg-python==0.2.0
 flatbuffers==1.12
 future==0.18.2
 gast==0.4.0
+google-auth==1.33.0
+google-auth-oauthlib==0.4.4
+google-pasta==0.2.0
 grpcio==1.34.1
 h11==0.12.0
 h5py==3.1.0
@@ -37,7 +41,7 @@ starlette==0.14.2
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.0
+tensorflow-cpu==2.5.0
 tensorflow-estimator==2.5.0
 termcolor==1.1.0
 typing-extensions==3.7.4.3
@@ -46,6 +50,8 @@ uvicorn==0.14.0
 uvloop==0.15.3
 video-to-ascii==1.2.8
 watchgod==0.7
+websocket-client==0.58.0
+websockets==9.1
 Werkzeug==2.0.1
 wrapt==1.12.1
 xtermcolor==1.3
